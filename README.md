@@ -29,4 +29,4 @@ This should pop up a small window; the first line at the top of the window shoul
 In, windows after installing python, in the Pycharm/Idle (or Which-ever you are using)
 Just import everything from tkinter
 
-from tkinter import *
+>>> from tkinter import *
